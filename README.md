@@ -22,7 +22,8 @@ cd demo-app
 # 2. Suba os containers (API + banco + frontend)
 docker compose up
 ```
-
+   
+   
 | Serviço  | URL                   |
 |----------|-----------------------|
 | API      | http://localhost:3000 |
